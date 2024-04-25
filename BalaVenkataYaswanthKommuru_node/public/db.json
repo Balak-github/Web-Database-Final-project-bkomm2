@@ -1,0 +1,82 @@
+{
+    "RCBSquad": [
+      {
+        "PlayerName": "Virat Kohli",
+        "PlayerRole": "Batsman",
+        "Nationality": "India",
+        "MatchesPlayed": 243,
+        "RunsScored": 7582,
+        "WicketsTaken": 4,
+        "HighestScore": 113,
+        "Image":"https://i0.wp.com/bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/2.png?strip=all",
+        "Profile":"Virat Kohli, often dubbed as the run machine, is the heartbeat of RCB. His aggressive batting style, impeccable technique, and leadership skills make him one of the finest cricketers of his generation. As a consistent performer, Kohli holds numerous records and has a phenomenal ability to chase down targets. With his fiery passion and commitment, he leads RCB with an inspiring presence on and off the field."
+      },
+      {
+        "PlayerName": "Faf du Plessis",
+        "PlayerRole": "Batsman",
+        "Nationality": "South Africa",
+        "MatchesPlayed": 136,
+        "RunsScored": 4303,
+        "WicketsTaken": 0,
+        "HighestScore": 96,
+        "Image":"https://www.khelspace.com/cdn/shop/articles/94.png?v=1691129695",
+        "Profile":"Faf du Plessis, the South African stalwart, brings experience and solidity to RCB's batting lineup. Known for his elegant stroke play and exceptional fielding, he is a valuable asset in both Tests and limited-overs cricket. His leadership qualities and calm demeanor make him a respected figure in the team, providing stability at crucial moments."
+      },
+      {
+        "PlayerName": "Yuzvendra Chahal",
+        "PlayerRole": "Bowler",
+        "Nationality": "India",
+        "MatchesPlayed": 151,
+        "RunsScored": 340,
+        "WicketsTaken": 198,
+        "HighestScore": 45,
+        "Image":"https://parimatchnews.com/wp-content/uploads/2020/11/Yuzvendra-Chahal.png",
+        "Profile":"Yuzvendra Chahal, RCB's go-to spinner, is renowned for his crafty leg-spin bowling. With his deceptive variations and ability to pick wickets, he often turns the game in RCB's favor. Chahal's consistent performances in the middle overs make him an indispensable part of the team's bowling arsenal."
+      },
+      {
+        "PlayerName": "Glenn Maxwell",
+        "PlayerRole": "All-Rounder",
+        "Nationality": "Australia",
+        "MatchesPlayed": 130,
+        "RunsScored": 2751,
+        "WicketsTaken": 35,
+        "HighestScore": 95,
+        "Image":"https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/28.png",
+        "Profile":"Glenn Maxwell, the 'Big Show', is a dynamic all-rounder known for his explosive batting and handy off-spin bowling. With his ability to clear boundaries at will, he adds firepower to RCB's batting lineup. Maxwell's fielding prowess and innovative stroke play make him a game-changer on his day."
+      },
+      {
+        "PlayerName": "Dinesh Karthik",
+        "PlayerRole": "WK-Batsman",
+        "Nationality": "India",
+        "MatchesPlayed": 240,
+        "RunsScored": 4659,
+        "WicketsTaken": 0,
+        "HighestScore": 97,
+        "Image":"https://blackhattalent.com/wp-content/uploads/2024/03/13.png",
+        "Profile":"Dinesh Karthik, the seasoned wicketkeeper-batsman, provides depth to RCB's batting and wicketkeeping departments. Known for his adaptability and finishing skills, he has the ability to accelerate the run rate and guide the team in pressure situations. Karthik's experience and versatility make him a valuable asset in the squad."
+      },
+      {
+        "PlayerName": "Mohammed Siraj",
+        "PlayerRole": "Bowler",
+        "Nationality": "India",
+        "MatchesPlayed": 85,
+        "RunsScored": 109,
+        "WicketsTaken": 82,
+        "HighestScore": 14,
+        "Image":"https://www.yolo247.com/sports/tournaments/wp-content/uploads/2023/12/Mohammed-Siraj-ipl.png",
+        "Profile":"Mohammed Siraj, RCB's rising pace sensation, has been impressive with his consistent performances. His ability to swing the ball both ways and bowl accurate yorkers make him a potent weapon in the bowling attack. Siraj's dedication and work ethic continue to earn him accolades and establish him as a key player for RCB."
+      },
+      {
+        "PlayerName": "Chris Gayle",
+        "PlayerRole": "Batsman",
+        "Nationality": "West Indies",
+        "MatchesPlayed": 142,
+        "RunsScored": 4965,
+        "WicketsTaken": 18,
+        "HighestScore": 175,
+        "Image":"https://onlinecricketleague.weebly.com/uploads/2/5/3/6/25366171/gayle.png",
+        "Profile":"Chris Gayle, the 'Universe Boss', is a T20 legend known for his monstrous hitting and entertaining style of play. Even though he has moved on from RCB, his impact on the team's history is unforgettable. With his vast experience and match-winning abilities, Gayle remains a fan favorite and a symbol of destructive batting in the cricketing world."
+      }
+    ]
+  }
+  
